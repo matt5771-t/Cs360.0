@@ -1,2 +1,17 @@
-# Cs360.0
-final project
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+The primary goal of the app developed in this course was to create a functional, user-centered mobile application that efficiently addresses specific user needs through structured navigation, data management, and intuitive workflows. The app was designed to streamline user tasks by providing reliable data input, persistent storage, and clear visual feedback, meeting modern mobile design and architecture standards.
+
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+The app incorporated dedicated screens for core functionalities such as main navigation, data viewing, and interactive entry or management forms. The user interface (UI) prioritized simplicity, accessibility, and consistency—utilizing clear layouts, responsive touch targets, and visual cues to reduce user friction. These designs were successful because they adhered to user-centered design principles established during earlier project phases, ensuring that navigation remained intuitive and effortless for any user.
+
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+The coding process followed a modular, iterative strategy, breaking down complex requirements into manageable components such as UI layout configuration, lifecycle management, and backend logic integration. Clean code practices, systematic debugging, and incremental testing were used to ensure stability. These structured strategies will be invaluable for future software engineering projects, ensuring maintainability, scalability, and robust architecture.
+
+How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+Testing involved a combination of emulator verification, device-based deployment, and targeted unit and functional testing to validate input handling, data persistence, and UI responsiveness. This process is critical because it catches runtime exceptions, memory leaks, and layout flaws early. Testing revealed edge cases regarding state retention and input validation, allowing for timely refinements before final packaging.
+
+Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+Throughout the transition from initial wireframing in Project Two to full code implementation in Project Three, a key challenge involved synchronizing complex UI states with backend data persistence. Overcoming this required creative problem-solving around component lifecycles and asynchronous data handling, ensuring a seamless and crash-free experience across different screen orientations and device states.
+
+In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+The architecture and implementation of the core interactive screens and data management pipeline best demonstrated comprehensive proficiency. Successfully tying together clean architectural patterns, responsive UI design, and reliable data handling proved a strong grasp of professional mobile software development standards.
